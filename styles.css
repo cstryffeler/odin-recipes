@@ -1,0 +1,23 @@
+img {
+    height: auto;
+    width: 300px;
+}
+
+.head {
+    color: white;
+    background-color: black;
+    font-weight: 600;
+}
+
+* {
+    font-family:'Courier New', Courier, monospace
+}
+
+.alert {
+    color: red;
+}
+
+#warning {
+    color: black;
+    background-color: red;
+}
